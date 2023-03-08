@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Sandro Fernandes ✌️
 
-![Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://monip.org)(https://sandrofernandes.000webhostapp.com/)
+[![Portfólio](https://img.shields.io/website?label=sandrofernandes.000webhostapp.com&style=for-the-badge&url=https://sandrofernandes.000webhostapp.com)](https://sandrofernandes.000webhostapp.com/)
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/sandro-fernandes-rosal-33365b240/)
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/sandro-fernandes-rosal-33365b240/)
 
 ![Sandro GitHub stats](https://github-readme-stats.vercel.app/api?username=sandrofernandesrosal&show_icons=true&theme=dracula&count_private=true)
 ## Tecnologias que eu uso no meu dia

@@ -6,7 +6,7 @@
 
 ![Sandro GitHub stats](https://github-readme-stats.vercel.app/api?username=sandrofernandesrosal&show_icons=true&theme=dracula&count_private=true)
 
-![Sandro](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![Sandro](https://github-readme-stats.vercel.app/api/top-langs/?sandrofernandesrosal={sandrofernandesrosal}&theme=blue-green)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">

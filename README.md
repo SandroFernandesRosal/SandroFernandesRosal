@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Sandro Fernandes ✌️
 
-[![Portfólio](https://img.shields.io/website?label=sandrofernandes.000webhostapp.com&style=for-the-badge&url=https://sandrofernandes.000webhostapp.com)](https://sandrofernandes.000webhostapp.com/)
+[![Portfólio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://sandrofernandes.000webhostapp.com)](https://sandrofernandes.000webhostapp.com/)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandro-fernandes-rosal-33365b240/)
 

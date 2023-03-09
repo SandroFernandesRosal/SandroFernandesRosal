@@ -6,9 +6,6 @@
 
 ![Sandro GitHub stats](https://github-readme-stats.vercel.app/api?username=sandrofernandesrosal&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandrofernandesrosal)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 ## Tecnologias que eu uso no meu dia
@@ -19,3 +16,5 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandrofernandesrosal)](https://github.com/anuraghazra/github-readme-stats)

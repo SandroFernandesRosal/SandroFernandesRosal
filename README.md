@@ -6,7 +6,8 @@
 
 ![Sandro GitHub stats](https://github-readme-stats.vercel.app/api?username=sandrofernandesrosal&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?sandrofernandesrosal=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandrofernandesrosal)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 

@@ -1,5 +1,8 @@
 ## Olá! Eu sou o Sandro Fernandes ✌️
 
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas, pela Universidade Estácio de Sá.
+- 💼 Trabalhando como Desenvolvedor Web Freelancer.
+
 
 [![Portfólio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://sandrofernandesdev.vercel.app/)](https://sandrofernandesdev.vercel.app/)
 

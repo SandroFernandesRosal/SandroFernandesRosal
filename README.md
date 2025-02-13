@@ -4,9 +4,9 @@
 - 💼 Trabalhando como Desenvolvedor Web Freelancer.
 
 
-[![Portfólio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://sandrofernandesdev.vercel.app/)](https://sandrofernandesdev.vercel.app/)
+[![Portfólio](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://sandrofernandesdev.vercel.app/)](https://www.sandrodev.com.br/)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandro-fernandes-rosal-33365b240/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandrofernandesrosal/)
 
 
 ![Sandro GitHub stats](https://github-readme-stats.vercel.app/api?username=sandrofernandesrosal&show_icons=true&theme=dracula&count_private=true)

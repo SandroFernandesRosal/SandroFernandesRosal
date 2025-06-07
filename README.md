@@ -22,7 +22,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia, com foco em **aplicações web modernas**, utilizando ferramentas de ponta para criar **experiências digitais intuitivas** e funcionais.  
+Sou um desenvolvedor apaixonado por tecnologia, com foco em **aplicações web modernas**, utilizando tecnologias de ponta, para criar **experiências digitais intuitivas** e funcionais.  
 
 
 ---

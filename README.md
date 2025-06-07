@@ -2,8 +2,6 @@
 
 <p align="center">
   🎓 Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong><br/>
-  💼 Desenvolvedor Web Freelancer focado em soluções modernas e eficientes<br/>
-  ✝️ Atuando voluntariamente como dev na igreja <strong>Alcançados Pela Graça</strong><br/>
 </p>
 
 <p align="center">

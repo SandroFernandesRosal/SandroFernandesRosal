@@ -77,7 +77,7 @@ Meu portfólio pessoal criado com Next.js e outras tecnologias modernas, para ap
 
 ## ✉️ Contato
 
-📩 sandrofernandesdev@gmail.com  
+📩 contato.sandrodev@gmail.com  
 🌐 [www.sandrodev.com.br](https://www.sandrodev.com.br)
 
 ---

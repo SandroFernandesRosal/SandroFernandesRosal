@@ -40,17 +40,16 @@ Sou desenvolvedor **Fullstack**, com foco em **aplicações web modernas**, atua
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" />
 </div>
 
 ### 🧩 Backend & Banco de Dados
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </div>
 
@@ -83,10 +82,10 @@ Sou desenvolvedor **Fullstack**, com foco em **aplicações web modernas**, atua
 ## 📌 Repositórios em destaque
 
 🔹 [**apg-frontend**](https://github.com/SandroFernandesRosal/apg-frontend)  
-Frontend do projeto **APG (Igreja)**, desenvolvido de forma voluntária com **Next.js**, foco em performance, responsividade e experiência do usuário.
+Frontend do projeto **APG (Igreja)**, desenvolvido de forma **voluntária**, utilizando **Next.js com TypeScript**, foco em performance, responsividade e experiência do usuário.
 
 🔹 [**apg-backend**](https://github.com/SandroFernandesRosal/apg-backend)  
-Backend do projeto **APG (Igreja)**, desenvolvido de forma voluntária, com **API REST**, autenticação, controle de acesso, Prisma e banco de dados relacional.
+Backend do projeto **APG (Igreja)**, desenvolvido de forma **voluntária**, com **Node.js e TypeScript**, **PostgreSQL**, API REST e controle de acesso.
 
 ---
 

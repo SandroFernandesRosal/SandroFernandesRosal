@@ -13,8 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SandroFernandesRosal&theme=dracula&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/SandroFernandesRosal/SandroFernandesRosal/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 
 

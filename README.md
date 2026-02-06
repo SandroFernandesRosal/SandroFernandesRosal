@@ -13,8 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SandroFernandesRosal/SandroFernandesRosal/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SandroFernandesRosal&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 

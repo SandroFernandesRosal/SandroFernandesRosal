@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api?username=SandroFernandesRosal&show_icons=true&theme=dracula&count_private=true"
     alt="GitHub Stats"
   />
@@ -25,7 +25,9 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor **Fullstack**, formado em **Análise e Desenvolvimento de Sistemas**, atuando no desenvolvimento de **aplicações web modernas**, desde a criação de **interfaces responsivas** até **APIs, regras de negócio e estruturação de dados**, sempre alinhado a **boas práticas de desenvolvimento**.
+Formado em **Análise e Desenvolvimento de Sistemas**, atuo como **Desenvolvedor Fullstack**, trabalhando com aplicações web modernas, desde a **implementação de interfaces responsivas** até a **lógica de negócio**, **integrações com APIs** e **estruturação de dados**, sempre alinhado a **boas práticas de desenvolvimento**.
+
+No dia a dia, utilizo **Git/GitHub para versionamento** e aplico **metodologias ágeis como Scrum e Kanban** para organizar e acompanhar as demandas de forma eficiente.
 
 ---
 
@@ -61,12 +63,14 @@ Sou desenvolvedor **Fullstack**, formado em **Análise e Desenvolvimento de Sist
   <img src="https://img.shields.io/badge/Evolution_API-000000?style=for-the-badge" />
 </div>
 
-### ⚙️ Ferramentas & Plataformas
+### ⚙️ Ferramentas, Plataformas & Metodologias
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Easypanel-1F2937?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
@@ -91,8 +95,8 @@ Backend do projeto **APG (Igreja)**, desenvolvido de forma **voluntária**, util
 ---
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Seja+bem-vindo+ao+meu+perfil!;Fique+à+vontade+para+explorar+🚀" 
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Seja+bem-vindo+ao+meu+perfil!;Fique+à+vontade+para+explorar+🚀"
     alt="Typing SVG"
   />
 </p>

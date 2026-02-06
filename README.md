@@ -8,7 +8,7 @@
   <a href="https://www.sandrodev.com.br" target="_blank">
     <img src="https://img.shields.io/badge/PORTFÓLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  &nbsp;
+
   <a href="https://www.linkedin.com/in/sandrofernandesrosal/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

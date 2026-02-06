@@ -12,13 +12,9 @@
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SandroFernandesRosal&show_icons=true" />
-
-
-
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandrofernandesrosal&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
+</p>
 
 ---
 

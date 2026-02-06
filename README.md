@@ -21,7 +21,7 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor **Fullstack**, com foco em **aplicações web modernas**, atuando desde a criação de **interfaces responsivas** até a **lógica de negócio**, **integrações com APIs** e **estruturação de dados**, sempre seguindo boas práticas de desenvolvimento e organização de código.
+Sou desenvolvedor **Fullstack**, com foco em **aplicações web modernas**, atuando desde a criação de **interfaces responsivas** até a **lógica de negócio**, **integrações com APIs** e **estruturação de dados**, sempre alinhado a boas práticas de desenvolvimento, organização de código e performance.
 
 ---
 
@@ -57,6 +57,7 @@ Sou desenvolvedor **Fullstack**, com foco em **aplicações web modernas**, atua
 ### 🔌 Integrações & APIs
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Evolution_API-000000?style=for-the-badge&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/Z--API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </div>
 
@@ -71,6 +72,7 @@ Sou desenvolvedor **Fullstack**, com foco em **aplicações web modernas**, atua
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Easypanel-1F2937?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -80,11 +82,11 @@ Sou desenvolvedor **Fullstack**, com foco em **aplicações web modernas**, atua
 
 ## 📌 Repositórios em destaque
 
-🔹 [**APG 2.0**](https://github.com/SandroFernandesRosal/APG-2.0)  
-Projeto completo com **frontend em Next.js 15** e **backend integrado via API**, utilizando Prisma, autenticação com múltiplos níveis de acesso e banco de dados relacional.
+🔹 [**apg-frontend**](https://github.com/SandroFernandesRosal/apg-frontend)  
+Frontend do projeto **APG (Igreja)**, desenvolvido de forma voluntária com **Next.js**, foco em performance, responsividade e experiência do usuário.
 
-🔹 [**my-portfolio-next**](https://github.com/SandroFernandesRosal/my-portfolio-next)  
-Portfólio pessoal desenvolvido com **Next.js**, focado em performance, responsividade e boas práticas de frontend moderno.
+🔹 [**apg-backend**](https://github.com/SandroFernandesRosal/apg-backend)  
+Backend do projeto **APG (Igreja)**, desenvolvido de forma voluntária, com **API REST**, autenticação, controle de acesso, Prisma e banco de dados relacional.
 
 ---
 

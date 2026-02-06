@@ -13,9 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandrofernandesrosal&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Seja+bem-vindo+ao+meu+perfil!;Fique+à+vontade+para+explorar+🚀">
 </p>
-
 ---
 
 ## 🚀 Sobre mim
@@ -93,6 +92,4 @@ Backend do projeto **APG (Igreja)**, desenvolvido de forma **voluntária**, util
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Seja+bem-vindo+ao+meu+perfil!;Fique+à+vontade+para+explorar+🚀">
-</p>
+

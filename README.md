@@ -1,20 +1,24 @@
 <h1 align="center">Olá! Eu sou o Sandro Fernandes 👋</h1>
 
 <p align="center">
-  🎓 Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong><br/>
+  🎓 Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.sandrodev.com.br">
-    <img src="https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://www.sandrodev.com.br" />
+  <a href="https://www.sandrodev.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sandrofernandesrosal/">
+
+  <a href="https://www.linkedin.com/in/sandrofernandesrosal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandrofernandesrosal&show_icons=true&theme=dracula&count_private=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sandrofernandesrosal&show_icons=true&theme=dracula&count_private=true" 
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
@@ -56,7 +60,7 @@ Sou desenvolvedor **Fullstack**, com foco em **aplicações web modernas**, atua
 ### 🔌 Integrações & APIs
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Evolution_API-000000?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Evolution_API-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Z--API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </div>
 
@@ -97,5 +101,7 @@ Backend do projeto **APG (Igreja)**, desenvolvido de forma **voluntária**, com 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Seja+bem-vindo+ao+meu+perfil!;Fique+à+vontade+para+explorar+🚀" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=Seja+bem-vindo+ao+meu+perfil!;Fique+à+vontade+para+explorar+🚀" 
+  />
 </p>

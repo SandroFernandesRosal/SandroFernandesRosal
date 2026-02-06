@@ -13,8 +13,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandroFernandesRosal&show_icons=true&theme=dracula">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SandroFernandesRosal&show_icons=true&theme=dracula"
+  />
 </p>
+
 
 ---
 
